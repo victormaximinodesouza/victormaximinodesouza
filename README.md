@@ -39,6 +39,11 @@ Analista de Sistemas e Desenvolvedor Back-End Java, Bacharel em Ciência da Comp
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=victormaximinodesouza&show_icons=true&theme=tokyonight" />
 
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victormaximinodesouza&layout=compact&theme=tokyonight" />
+
+
+
   
 ---
 
