@@ -1,4 +1,4 @@
-<h1 align="center">Victor Souza 👨‍💻</h1>
+<h1 align="center">Victor Souza</h1>
 
 <p align="center">
   Desenvolvedor Back-End Java | Analista De Sistemas
@@ -6,21 +6,15 @@
 
 ---
 
-## 🚀 Sobre mim
 
-## 🚀 Sobre mim
+##  Sobre mim
+Analista de Sistemas e Desenvolvedor Back-End Java, Bacharel em Ciência da Computação pela FPB, com foco em Spring Boot e construção de APIs REST, experiência com bancos de dados relacionais (MySQL e PostgreSQL), versionamento com Git e vivência em infraestrutura e suporte técnico, buscando constante evolução em arquitetura de software e boas práticas de desenvolvimento.
 
-🎓 Bacharel em Ciência da Computação – FPB  
-💻 Desenvolvedor Back-End focado em Java e Spring Boot  
-🗄️ Experiência com SQL, MySQL e PostgreSQL  
-🔧 Experiência com suporte técnico e infraestrutura 
-📚 Estudando arquitetura de APIs, AWS e testes  
-🎯 Buscando oportunidade como Desenvolvedor Java JR
 
 
 ---
 
-## 🛠️ Stack Principal
+##  Stack Principal
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -30,7 +24,7 @@
 
 ---
 
-## 💻 Outras Tecnologias
+##  Outras Tecnologias
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,11 +35,16 @@
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victormaximinodesouza&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaximinodesouza&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=victormaximinodesouza&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormaximinodesouza&layout=compact&theme=tokyonight&cache_seconds=1800" 
+  />
 </p>
 
 ---
