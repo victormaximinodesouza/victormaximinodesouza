@@ -1,14 +1,18 @@
 <h1 align="center">Victor Souza</h1>
 
 <p align="center">
-  Desenvolvedor Back-End Java | Analista De Sistemas
+  Desenvolvedor Back-End Java | Analista De Sistemas | Dados
 </p>
 
 ---
 
 
 ##  Sobre mim
-Analista de Sistemas e Desenvolvedor Back-End Java, Bacharel em Ciência da Computação pela FPB, com foco em Spring Boot e construção de APIs REST, experiência com bancos de dados relacionais (MySQL e PostgreSQL), versionamento com Git e vivência em infraestrutura e suporte técnico, buscando constante evolução em arquitetura de software e boas práticas de desenvolvimento.
+Atualmente desenvolvo minha trajetória profissional na área de Dados e Desenvolvimento de Automações no Grupo Energisa. Possuo experiência anterior como Analista de Sistemas e participação em projetos colaborativos como QA, conhecimentos que fortaleceram minha visão sobre desenvolvimento de software, análise de requisitos e qualidade de aplicações.
+
+Sou apaixonado por tecnologia, inovação e resolução de problemas. Venho aprofundando meus conhecimentos em Java, Python, SQL, Spring Boot, APIs REST, análise de dados e Machine Learning, buscando desenvolver soluções tecnológicas eficientes, escaláveis e alinhadas às necessidades do negócio.
+
+Meu objetivo é continuar evoluindo em Desenvolvimento de Software e Dados, ampliando minhas competências em automação, arquitetura de aplicações e computação em nuvem, construindo uma carreira sólida e multidisciplinar na tecnologia.
 
 
 
